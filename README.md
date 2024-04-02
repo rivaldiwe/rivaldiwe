@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rivaldiwe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👀 I’m interested in books
+- 🌱 I’m currently learning git
 
 <!---
 rivaldiwe/rivaldiwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
